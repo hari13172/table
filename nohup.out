@@ -1,0 +1,8 @@
+yarn run v1.22.19
+$ vite --host 0.0.0.0
+
+  VITE v4.3.9  ready in 184 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.20.0.13:5173/
+  ➜  Network: http://172.16.0.7:5173/
